@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "luvdadmin",
+    "password": "Ca4s9+Q~k]\\f",
+    "database": "redate",
+    "host": "rds-partners.lovd.co.kr",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "luvdadmin",
+    "password": "Ca4s9+Q~k]\\f",
+    "database": "redate",
+    "host": "rds-partners.lovd.co.kr",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "luvdadmin",
+    "password": "Ca4s9+Q~k]\\f",
+    "database": "redate",
+    "host": "rds-partners.lovd.co.kr",
+    "dialect": "mysql"
+  }
+}

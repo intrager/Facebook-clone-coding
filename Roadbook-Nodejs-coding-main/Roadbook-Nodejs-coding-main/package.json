@@ -1,0 +1,37 @@
+{
+  "name": "roadbook-nodejs-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intrager/Roadbook-Nodejs-coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intrager/Roadbook-Nodejs-coding/issues"
+  },
+  "homepage": "https://github.com/intrager/Roadbook-Nodejs-coding#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "sequelize": "^6.12.5",
+    "sequelize-cli": "^6.3.0",
+    "uuid-apikey": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
